@@ -2,4 +2,4 @@
 
 from scrapy import cmdline
 
-cmdline.execute("scrapy crawl gongkong".split())
+cmdline.execute("scrapy crawl find".split())
